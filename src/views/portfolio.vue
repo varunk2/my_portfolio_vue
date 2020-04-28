@@ -1,15 +1,15 @@
 <template>
-    <Index />
+	<Portfolio />
 </template>
 
 <script>
 // @ is an alias to /src
-import Index from '@/components/Index.vue'
+import Portfolio from '@/components/Portfolio.vue'
 
 export default {
-  name: 'Home',
+  name: 'portfolio',
   components: {
-    Index
+    Portfolio
   }
 }
 </script>
