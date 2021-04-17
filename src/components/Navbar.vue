@@ -1,7 +1,9 @@
 <template>
 	<header class="header text-center">
 		<div class="force-overflow">
-			<h1 class="blog-name pt-lg-4 mb-0"><a href="index.html">Varun Sharma</a></h1>
+			<h1 class="blog-name pt-lg-4 mb-0">
+				<router-link to='/' class="nav-link">Varun Sharma</router-link>
+			</h1>
 			
 			<nav class="navbar navbar-expand-lg navbar-dark">
 				
@@ -13,7 +15,7 @@
 					<div class="profile-section pt-3 pt-lg-0">
 						<img class="profile-image mb-3 rounded-circle mx-auto" src="@/assets/images/pic_small.jpg" alt="image" >
 						
-						<div class="bio mb-2">Hi, my name is Varun Sharma and I'm a web developer. Welcome to my portfolio!</div><!--//bio-->
+						<div class="bio mb-2">Hi, my name is Varun Sharma and welcome to my portfolio!</div><!--//bio-->
 						<ul class="social-list list-inline mx-auto">
 							<li class="list-inline-item">
 								<a href="https://www.facebook.com/varun.sharma.5439087"><i class="fab fa-facebook fa-fw"></i></a>
@@ -23,9 +25,6 @@
 							</li>
 							<li class="list-inline-item">
 								<a href="https://github.com/varunk2/"><i class="fab fa-github-alt fa-fw"></i></a>
-							</li>
-							<li class="list-inline-item">
-								<a href="https://codepen.io/varunk2"><i class="fab fa-codepen fa-fw"></i></a>
 							</li>
 						</ul>
 						<hr> 

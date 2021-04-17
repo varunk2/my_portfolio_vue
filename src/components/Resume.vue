@@ -254,7 +254,7 @@
 		<div class="container"><hr></div>
 
 		<footer class="footer text-center py-4">
-			<p>Handmade by me with <i class="fa fa-heart text-danger"></i> &copy; 2019</p>
+			<p>Handmade by me with <i class="fa fa-heart heart_icon text-danger"></i> &copy; 2021</p>
 		</footer>
 				
 	</div>

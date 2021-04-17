@@ -10,6 +10,76 @@
 				<div class="project-cards row isotope">
 					<div class="isotope-item col-md-6 mb-5 mobileapp frontend">
 						<div class="card project-card">
+							<img src="@/assets/images/project/space_shooter_2d.png" class="img-fluid" alt="image">
+							<div class="card-body">
+								<h5 class="card-title">
+									<a href="#" target="_blank" class="theme-link">Space Shooter 2D</a>
+								</h5>
+								<p class="card-text">
+									Space Shooter 2D is a 2D space shooter game which I made just for fun to test my Unity skills.
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="isotope-item col-md-6 mb-5 mobileapp frontend">
+						<div class="card project-card">
+							<img src="@/assets/images/project/2d_platformer.png" class="img-fluid" alt="image">
+							<div class="card-body">
+								<h5 class="card-title">
+									<a href="#" target="_blank" class="theme-link">2D Platformer Game</a>
+								</h5>
+								<p class="card-text">
+									A 2D platformer game which I made in Unity while pursuing my Full-stack Game Development course from Outscal.<br>This was a full game with a starting scene and a game over scene, Player and enemy animations, Scene management, Health management and audios.
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="isotope-item col-md-6 mb-5 mobileapp frontend">
+						<div class="card project-card">
+							<img src="@/assets/images/project/conways_game_of_life.png" class="img-fluid" alt="image">
+							<div class="card-body">
+								<h5 class="card-title">
+									<a href="#" target="_blank" class="theme-link">Conway's Game Of Life</a>
+								</h5>
+								<p class="card-text">
+									Implemented rules of Conway’s Game of Life, resulting a beautiful implementation. This was indeed a tough task to implement.
+								</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="isotope-item col-md-6 mb-5 mobileapp frontend">
+						<div class="card project-card">
+							<img src="@/assets/images/project/truck_smash.png" class="img-fluid" alt="image">
+							<div class="card-body">
+								<h5 class="card-title">
+									<a href="#" target="_blank" class="theme-link">Truck Smash</a>
+								</h5>
+								<p class="card-text">
+									A simple prototype of car physics which I was trying for fun. This was the very first time when I made something in Unity while learning Unity.<br>Implemented player controls which would make the car move.<br>Learned how to make the Camera follow the car and give the player a proper view of the scene.
+								</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="isotope-item col-md-6 mb-5 mobileapp frontend">
+						<div class="card project-card">
+							<img src="@/assets/images/project/bomber_man.png" class="img-fluid" alt="image">
+							<div class="card-body">
+								<h5 class="card-title">
+									<a href="#" target="_blank" class="theme-link">Bomber Man</a>
+								</h5>
+								<p class="card-text">
+									A simple prototype of car physics which I was trying for fun. This was the very first time when I made something in Unity while learning Unity.<br>Implemented player controls which would make the car move.<br>Learned how to make the Camera follow the car and give the player a proper view of the scene.
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="isotope-item col-md-6 mb-5 mobileapp frontend">
+						<div class="card project-card">
 							<img src="@/assets/images/project/agility_today.png" class="img-fluid" alt="image">
 							<div class="card-body">
 								<h5 class="card-title">
@@ -81,6 +151,7 @@
 							</div>
 						</div>
 					</div>
+
 					<div class="isotope-item col-md-6 mb-5 webapp frontend">
 						<div class="card project-card">
 							<img src="@/assets/images/project/vision.png" class="card-img" alt="image">
@@ -95,7 +166,7 @@
 		</section>
 		<div class="container"><hr></div>
 		<footer class="footer text-center py-4">
-			<p>Handmade by me with <i class="fa fa-heart heart_icon text-danger"></i> &copy; 2019</p>
+			<p>Handmade by me with <i class="fa fa-heart heart_icon text-danger"></i> &copy; 2021</p>
 		</footer>
 	</div>
 </template>
